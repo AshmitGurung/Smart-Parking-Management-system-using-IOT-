@@ -1,7 +1,7 @@
 Smart Parking Management using IOT
 
 
-introduction:-
+Introduction:-
 
 The project entitled smart parking system is to manage all the parking facilities to an user. The recent growth in economy and due to the availability of low-price cars in the market, an every average middle-class individual can afford a car, which is good thing, however the consequences of heavy traffic jams, pollution, less availability of roads and spot to drive the motor car. One of the important concerns, which is to be taken in accounting, is the problem of parking those vehicles. Though, if there is space for parking the vehicle but so much time is squandered in finding that exact parking slot resulting in more fuel intake and not also environment friendly.
 
