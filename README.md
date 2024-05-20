@@ -9,9 +9,13 @@ The project entitled smart parking system is to manage all the parking facilitie
 Hardware used:-
 
 Arduino Uno
+
 6 IR sensors
+
 SG 90 Servo Motor
+
 LCD Display
+
 BreadBoard
 
 
